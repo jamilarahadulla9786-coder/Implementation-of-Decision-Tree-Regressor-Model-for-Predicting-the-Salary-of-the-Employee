@@ -79,8 +79,7 @@ print("\nPredicted Salary for 5 years experience:", predicted_salary[0])
 ```
 Developed by: ABDUL RAHMAN A R
 RegisterNumber:  25008775
-*/
-```
+
 
 ## Output:
 ![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
